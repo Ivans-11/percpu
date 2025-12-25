@@ -1,0 +1,9 @@
+(function() {
+    const implementors = Object.fromEntries([["percpu",[["impl UnsafeUnpin for <a class=\"struct\" href=\"percpu/struct.EXAMPLE_PERCPU_DATA_WRAPPER.html\" title=\"struct percpu::EXAMPLE_PERCPU_DATA_WRAPPER\">EXAMPLE_PERCPU_DATA_WRAPPER</a>",0,1,["percpu::EXAMPLE_PERCPU_DATA_WRAPPER"]]]]]);
+    if (window.register_implementors) {
+        window.register_implementors(implementors);
+    } else {
+        window.pending_implementors = implementors;
+    }
+})()
+//{"start":59,"fragment_lengths":[242]}
